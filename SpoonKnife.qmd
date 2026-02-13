@@ -1,0 +1,12 @@
+---
+title: "Spoon Knife"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+# Spoon Knife
